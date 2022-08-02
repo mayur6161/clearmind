@@ -5,6 +5,7 @@ import 'package:clearmind/Playlist_three/page_manager.dart';
 import 'package:clearmind/playlist_six/page_manager.dart';
 import 'package:clearmind/playlist_two/page_manager.dart';
 import 'package:clearmind/widgets/colours.dart';
+import 'package:clearmind/widgets/splashscree.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -32,7 +33,7 @@ class _MyAppState extends State<MyApp> {
           backgroundColor: Colors.white,
           visualDensity: VisualDensity.adaptivePlatformDensity,
           scaffoldBackgroundColor: Colors.white),
-      home: HomePage(),
+      home: SplashScreen(),
     );
   }
 }
