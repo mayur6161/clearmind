@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520052556297",
+    "project_id": "clearmind-fd8fb",
+    "storage_bucket": "clearmind-fd8fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520052556297:android:5efebfd9994d369c3e2ed8",
+        "android_client_info": {
+          "package_name": "com.clearmind.app12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520052556297-nje35e1grilcfkl8ulrdf2bhk4labb2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1mtQNkaHysOlG6sp4EdtThr9-dxVfxeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520052556297-nje35e1grilcfkl8ulrdf2bhk4labb2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
